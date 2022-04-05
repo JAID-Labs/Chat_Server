@@ -1,0 +1,11 @@
+target/
+
+### IntelliJ IDEA ###
+.idea
+
+#maven
+.mvn/
+mvnw
+mvnw.cmd
+
+chat-server.iml
